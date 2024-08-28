@@ -1,0 +1,10 @@
+# Ecosystem Level Information
+title = "Memeverse"
+
+sub_ecosystems = []
+
+github_organizations = []
+
+# Repositories
+[[repo]]
+url = "https://github.com/vivekratr/Memeverse_Desktop"

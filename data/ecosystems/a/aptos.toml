@@ -36,6 +36,7 @@ sub_ecosystems = [
   "Laminar",
   "LayerZero",
   "Martian DAO",
+  "Memeverse",
   "Merkle Trade",
   "Mirror World",
   "Module Labs",
@@ -84,6 +85,10 @@ url = "https://github.com/04Akaps/Aptos_Move"
 
 [[repo]]
 url = "https://github.com/0LNetworkCommunity/aptos-core"
+missing = true
+
+[[repo]]
+url = "https://github.com/vivekratr/Memeverse_Desktop"
 missing = true
 
 [[repo]]
